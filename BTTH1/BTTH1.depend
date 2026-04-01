@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1775030536 source:d:\hoc\cs523\code\btth1\main.cpp
+	<iostream>
+	<limits>
+	"QLSV.h"
+
+1775030360 d:\hoc\cs523\code\btth1\include\qlsv.h
+	<iostream>
+	<vector>
+	<iomanip>
+	"BTree.h"
+
+1775029888 d:\hoc\cs523\code\btth1\include\btree.h
+	<iostream>
+	<vector>
+	<string>
+
